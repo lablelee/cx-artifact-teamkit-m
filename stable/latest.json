@@ -1,30 +1,30 @@
 {
   "schema_version": "teamkit.release-catalog/v1",
   "channel": "stable",
-  "teamkit_version": "0.1.72",
+  "teamkit_version": "0.1.73",
   "platforms": {
     "windows-amd64": {
       "core": {
-        "path": "core/teamkit-0.1.72-windows-amd64.zip",
-        "size": 30860738,
-        "sha256": "e665394f2b12b721147cacb344448b99630a7bc59546fe109bb67146dff0e0dd"
+        "path": "core/teamkit-0.1.73-windows-amd64.zip",
+        "size": 30887083,
+        "sha256": "de62ae8d60d9cdd485adf83bc7eb678b5dc952812037b29e0fc93260156996de"
       },
       "kb": {
-        "path": "packs/ci360-kb-go-0.1.4-citations-windows-amd64.zip",
-        "size": 38073938,
-        "sha256": "70eb5a77878ad849786c26e1dde72ad5e6653b8487dfcc0d5aa4a2d470af69b5"
+        "path": "packs/ci360-kb-go-0.1.5-citations-windows-amd64.zip",
+        "size": 37816819,
+        "sha256": "41d2e60b33821a2548868b165b1208c164ffafe04b3d0efd45a29649899d2939"
       }
     },
     "darwin-amd64": {
       "core": {
-        "path": "core/teamkit-0.1.72-darwin-amd64.zip",
-        "size": 27370516,
-        "sha256": "41731d650a1a4488c0f97bbed815249d89a0a368cead4940f666d08689636ad0"
+        "path": "core/teamkit-0.1.73-darwin-amd64.zip",
+        "size": 27399090,
+        "sha256": "8c7f4501aa8586775ecf1ead88f2ba6b0785123d1bb8d43d93c43e84e4c9b8a0"
       },
       "kb": {
-        "path": "packs/ci360-kb-go-0.1.4-citations-darwin-amd64.zip",
-        "size": 37846893,
-        "sha256": "319b28821161e78710ed1f30f6874f4978ca3e2cc77983f26a0a635deb6afac2"
+        "path": "packs/ci360-kb-go-0.1.5-citations-darwin-amd64.zip",
+        "size": 37947619,
+        "sha256": "a057a8ddddb2c65810783b248c646cde623bc57d9172f59f066fb8f296568aa1"
       },
       "installer": {
         "path": "installer/install_macos.sh",
@@ -34,14 +34,14 @@
     },
     "darwin-arm64": {
       "core": {
-        "path": "core/teamkit-0.1.72-darwin-arm64.zip",
-        "size": 25639090,
-        "sha256": "1c1d420c631d04e973294fe5aa9e0062dfb5d49bfe50568dd4a50f6a5cd7f3ce"
+        "path": "core/teamkit-0.1.73-darwin-arm64.zip",
+        "size": 25663806,
+        "sha256": "66ea1d0d26f672e18735ac6b08513a13ae2b2b6fe6b6948588ad073b929f9631"
       },
       "kb": {
-        "path": "packs/ci360-kb-go-0.1.4-citations-darwin-arm64.zip",
-        "size": 37555112,
-        "sha256": "0034205d50623ecb7f173c355ee547d3375c90d2ad8b2a2e9e34f06113239c59"
+        "path": "packs/ci360-kb-go-0.1.5-citations-darwin-arm64.zip",
+        "size": 37603247,
+        "sha256": "65bd1f55980405e2e997eb5e77c76bd92c7f66fa3ccd28da0a93c1f731ff2ddf"
       },
       "installer": {
         "path": "installer/install_macos.sh",
